@@ -41,9 +41,6 @@ I enjoy learning new technologies, improving my engineering skills, and building
   <a href="https://github.com/yahavmor">
     <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com">
-    <img src="https://skillicons.dev/icons?i=vercel" height="50"/>
-  </a>
 </p>
 
 ---
