@@ -81,9 +81,6 @@ I enjoy learning new technologies, improving my engineering skills, and building
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" height="60"/>
   </a>
-  <a href="https://www.linux.org/">
-    <img src="https://skillicons.dev/icons?i=linux" height="60"/>
-  </a>
   <a href="https://www.docker.com/">
     <img src="https://skillicons.dev/icons?i=docker" height="60"/>
   </a>
@@ -91,60 +88,6 @@ I enjoy learning new technologies, improving my engineering skills, and building
     <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
   </a>
 </p>
-
----
-
-# 🎮 **Featured Projects Showcase**
-
-<table align="center">
-<tr>
-<td align="center" width="300">
-  
-<a href="https://github.com/yahavmor/packman">
-  
-### 🎮 Packman  
-<img src="https://img.shields.io/badge/JavaScript-Game-yellow?style=for-the-badge" /><br><br>
-Fun JavaScript game showcasing DOM manipulation, animations, and game logic.
-</a>
-
-</td>
-<td align="center" width="300">
-
-<a href="https://github.com/yahavmor/minesweeper">
-
-### 💣 Mine Sweeper  
-<img src="https://img.shields.io/badge/Logic-Game-blue?style=for-the-badge" /><br><br>
-Classic logic game with clean UI updates and interactive gameplay.
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="300">
-
-<a href="https://github.com/yahavmor/todo-list">
-
-### 📝 Todo List  
-<img src="https://img.shields.io/badge/JavaScript-App-green?style=for-the-badge" /><br><br>
-Simple and elegant task manager built with vanilla JavaScript.
-</a>
-
-</td>
-<td align="center" width="300">
-
-<a href="https://github.com/yahavmor/book-shop">
-
-### 📚 Book Shop  
-<img src="https://img.shields.io/badge/CRUD-App-purple?style=for-the-badge" /><br><br>
-CRUD‑based web app with modular code structure and clean architecture.
-</a>
-
-</td>
-</tr>
-</table>
-
----
 
 # 📊 **GitHub Stats**
 <p align="center">
