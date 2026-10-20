@@ -31,6 +31,18 @@ I enjoy learning new technologies, improving my engineering skills, and building
 📫 **Email:** [yahavmor77@gmail.com](mailto:yahavmor77@gmail.com)  
 🔥 **Focused on:** JavaScript, Python, Web Apps, UI/UX, Backend Logic  
 
+🌐 **Portfolio:** [yahavmor.github.io](https://yahavmor.github.io)
+
+---
+
+# 🚀 **Featured Projects**
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **StockLiser** | Real-time stock search, a watchlist and a meme gallery | React, Redux Toolkit, MUI · Node.js, Express, MongoDB | [Live](https://backend-stock-sv6k.onrender.com) · [Frontend](https://github.com/yahavmor/StockLiser---FRONTEND) · [Backend](https://github.com/yahavmor/StockLiser---BACKEND) |
+| **MovieLand** | Movie platform with search, trailers and liked lists | React, Redux Toolkit, Vite · Node.js, Express, MySQL, Sequelize | [Live](https://movie-land-frontend-kfja.vercel.app) · [Frontend](https://github.com/yahavmor/MovieLand-FRONTEND) · [Backend](https://github.com/yahavmor/MovieLand-BACKEND) |
+| **MisToy** | Toy store with live chat, reviews and a dashboard | React, Redux, MUI, Socket.io · Node.js, Express, MongoDB | [Frontend](https://github.com/yahavmor/mistoy-frontend) · [Backend](https://github.com/yahavmor/mistoy-backend) |
+
 ---
 
 # 🌐 **Connect With Me**
